@@ -32,4 +32,4 @@ For this i used this in CSS:
     
 }
 
-And in JS added if, else conditions which will be visible in innerhtml's js. 
+And in JS added (if, else) conditions which will be visible in innerhtml's js. 
